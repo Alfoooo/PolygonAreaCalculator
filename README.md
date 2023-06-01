@@ -1,1 +1,1 @@
-Polygon Area Calculator
+Polygon Area Calculator for freeCodeCamp Scientific Computing with Python Projects
